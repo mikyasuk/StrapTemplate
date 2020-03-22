@@ -4,7 +4,7 @@
 }
 .sectionLight{
     background-color: #eceeef;
-    padding: 2em;
+    padding: 1em;
 
 }
 .sectionDark{
@@ -55,6 +55,10 @@ h5.modal-title{
 }
 .fa-instagram{
     color:#ffffff;
+}
+
+.fa-instagram.classic{
+    color:purple;
 }
 
 .socialWrapper{
